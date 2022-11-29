@@ -52,7 +52,7 @@ class Transform
      *
      * @param  iterable $collection
      *
-     * @return array
+     * @return mixed
      */
     public static function collection($collection)
     {
